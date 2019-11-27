@@ -9,7 +9,13 @@
 아두이노 스케치에서 13번 소스를 연 다음 크리스탈 LCD와 DHT11 라이브러리를 포함하기를 zip파일 지정해서 가져온 후 컴파일해서 넣으면 됨.  
 
 ## 사용키트 
+키트에는 아두이노가 포함되어 있지 않기 때문에 측정기 키트 외에 아두이노를 하나 더 사야 한다. 호환품도 잘 동작함. 키트에 추가로 아두이노를 익힐 수 있는 부품들이 좀 더 있음. (LED나 초음파센서나 뭐 그런 기초적인 것들)
 [아두이노 미세먼지 측정기 추가팩 키트 교재포함 (정밀편)](http://mechasolution.com/shop/goods/goods_view.php?goodsno=583049&category=)
+[아두이노 우노 R3 호환보드 (Arduino uno R3) / 우노보드 / 우노 보드](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71796&category=145015001)
+
+## 조립방법
+["미세먼지 측정기 아두이노 프로젝트" 에 대한 PDF 매뉴얼](https://cafe.naver.com/mechawiki/3909)
+위 게시물에서 다운로드. 키트에 책자가 들어있는데 이것과 같은 버전.
 
 ## 소스코드
 [https://cafe.naver.com/mechawiki/3858](https://cafe.naver.com/mechawiki/3858)
